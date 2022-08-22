@@ -25,18 +25,18 @@ function SideBar({ genres }) {
       <div className="w-full flex-col flex gap-5 mt-5 pb-8 border-b-2 border-gray-300">
         <Card
           data={{
-            poster: "tuzkEyCPwf5O56fDjGNerIA8hxT.jpg",
-            title: "jakarta",
-            genres: ["History"],
+            poster: "q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+            title: "The Shawshank Redemption",
+            genres: ["crime"],
             rating: 8,
           }}
         />
         <Card
           data={{
-            poster: "tuzkEyCPwf5O56fDjGNerIA8hxT.jpg",
-            title: "jakarta",
+            poster: "qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            title: "The Dark Knight",
             rating: 8,
-            genres: ["History"],
+            genres: ["action"],
           }}
         />
       </div>
